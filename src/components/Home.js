@@ -13,13 +13,7 @@ function Home() {
                 rightBtnText= "Voir les configurations existantes"
             />
 
-            <Section
-                title="Model Y"
-                description="Commander en ligne ou tester en concession"
-                backgroundImg="model-y.jpg"
-                leftBtnText="Personnaliser votre Tesla"
-                rightBtnText="Voir les configurations existantes"
-            />
+            
 
             <Section
                 title="Model 3"
@@ -33,6 +27,14 @@ function Home() {
                 title="Model X"
                 description="Commander en ligne ou tester en concession"
                 backgroundImg="model-x.jpg"
+                leftBtnText="Personnaliser votre Tesla"
+                rightBtnText="Voir les configurations existantes"
+            />
+
+            <Section
+                title="Model Y"
+                description="Commander en ligne ou tester en concession"
+                backgroundImg="model-y.jpg"
                 leftBtnText="Personnaliser votre Tesla"
                 rightBtnText="Voir les configurations existantes"
             />
@@ -51,6 +53,14 @@ function Home() {
                 backgroundImg="solar-roof.jpg"
                 leftBtnText="Commander maintenant"
                 rightBtnText="En savoir plus"
+            />
+
+            <Section
+                title="Accessoires"
+                description=""
+                backgroundImg="accessories.jpg"
+                leftBtnText="Achater maintenant"
+                rightBtnText=""
             />
 
             
